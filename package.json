@@ -1,6 +1,6 @@
 {
   "name": "realtime-weather-app",
-  "homepage": "https://github.com/KuoJoy/realtime-weather-app.git",
+  "homepage": "https://kuojoy.github.io/realtime-weather-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
